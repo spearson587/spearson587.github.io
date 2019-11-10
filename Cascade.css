@@ -1,0 +1,12 @@
+  <head>
+    <title>page title</title>
+    <link href="styles.css" rel="stylesheet">     Add this line 
+  </head>
+
+h1 {color: Green; font-size: 24pt;} 
+p {color: green; font-weight: bold;} 
+Body { background: Black; 
+	     color: White;
+	     font-size: 14pt;
+	   }
+
